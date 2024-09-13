@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel 👋
 
-- 🔭 I’m currently working on BMO-AI, a 3D-printed, AI-powered robot companion that uses speech-to-text, text-to-speech!
 - 🌱 I’m currently learning Full Stack Software Development @ Collège de Maisonneuve
+- 🔭 I’m currently working on BMO-AI, a 3D-printed, AI-powered robot companion that uses speech-to-text, text-to-speech!
 - 📫 How to reach me:
 <div>
   <a href="https://www.linkedin.com/in/daniel-to-">
